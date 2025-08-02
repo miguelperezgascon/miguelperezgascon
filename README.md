@@ -1,6 +1,6 @@
 # Miguel Pérez Gascón
 
-📍 Valencia, Spain
+📍 Valencia, :es:
 
 Software Developer — BSc in Computer Science, University of Valencia
 
